@@ -1,1 +1,5 @@
 # Cryptocurrencies
+
+The following analysis is done for a prominent investment bank that is interested in offering a new cryptocurrency investment portfolio for its customers. However, the company is lost in the vast universe of cryptocurrencies. Therefore, the bank has asked for a report that includes what crptocurrencies are on the trading market and how they could be grouped to create a classification system for this new investment. 
+
+The data being worked on is not ideal, so it will need to be processed to fit the machine learning models. Since there is no known output for what is being looked for, unsupervied machine learning is the most suitable for this task. To group the cryptocurrencies and share her findings to the board, clustering algorithm and data visualizations are used respectively. 
